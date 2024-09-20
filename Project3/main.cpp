@@ -361,6 +361,7 @@ int main() {
 
         cin.ignore();
 
+
         switch (choice) {
         case 1: 
             steam.PrintGames();
